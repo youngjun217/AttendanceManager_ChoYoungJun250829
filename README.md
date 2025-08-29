@@ -5,7 +5,7 @@ CRA 5기 8차수 공통 과제 250829
 
 coverage 캡쳐
 
-![img1.png](img.png)
+![img1.png](img1.png)
 
 ![img_2.png](img_2.png)
 
